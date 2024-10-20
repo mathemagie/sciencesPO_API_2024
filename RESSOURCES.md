@@ -26,7 +26,8 @@
 - [Empowering devs with AI: How Shopify made GitHub Copilot core to its culture](https://www.youtube.com/watch?v=wVKBwcm5dbw)
 
 ## YouTube Channels
-- [Shubham Sharma](https://www.youtube.com/@Shubham_Sharma/videos)
+- [Shubham Sharma](https://www.youtube.com/watch?v=EFfa5pgpDF4&t=4s) Qu'est ce qu'une API ? Ce qu'il faut absolument connaitre 
+- [Shubham Sharma] https://www.youtube.com/watch?v=jq6KVKmV2VU&t=781s
 - [Wes Roth](https://www.youtube.com/@WesRoth/videos)
 
 ## Government APIs
@@ -36,3 +37,5 @@
 - [CLI Language Models](https://simonwillison.net/2024/Jun/17/cli-language-models/)
 - [Automate OpenAI (Zapier)](https://zapier.com/blog/automate-openai/)
 - [10 Epic AI Voice Chat Demos](https://www.theneurondaily.com/p/10-epic-ai-voice-chat-demos)
+- [Building APIs for AI: An Interview with Zapier's Bryan Helmig](https://www.ycombinator.com/blog/building-apis-for-ai-an-interview-with-zapiers-bryan-helmig?fbclid=IwAR1DIJYqhi2VHTn75LEtZLGtHd3sMA-CVxY6lN3Qx6Yv1rt_40ZMBD5Fg14)
+- [Building AGI with OpenAI's Structured Outputs API](https://www.youtube.com/watch?v=NjOfH9D8aJo) OpenAI's mission and the role of the API
