@@ -33,9 +33,19 @@
 ## Government APIs
 - [API.gouv.fr](http://api.gouv.fr)
 
-## Miscellaneous
+### AI and Language Models
 - [CLI Language Models](https://simonwillison.net/2024/Jun/17/cli-language-models/)
-- [Automate OpenAI (Zapier)](https://zapier.com/blog/automate-openai/)
 - [10 Epic AI Voice Chat Demos](https://www.theneurondaily.com/p/10-epic-ai-voice-chat-demos)
-- [Building APIs for AI: An Interview with Zapier's Bryan Helmig](https://www.ycombinator.com/blog/building-apis-for-ai-an-interview-with-zapiers-bryan-helmig?fbclid=IwAR1DIJYqhi2VHTn75LEtZLGtHd3sMA-CVxY6lN3Qx6Yv1rt_40ZMBD5Fg14)
-- [Building AGI with OpenAI's Structured Outputs API](https://www.youtube.com/watch?v=NjOfH9D8aJo) OpenAI's mission and the role of the API
+
+### OpenAI and API Integration
+- [Automate OpenAI (Zapier)](https://zapier.com/blog/automate-openai/)
+- [Building AGI with OpenAI's Structured Outputs API](https://www.youtube.com/watch?v=NjOfH9D8aJo)
+  - Explores OpenAI's mission and the role of their API
+
+### API Development and AI
+- [Building APIs for AI: Interview with Zapier's Bryan Helmig](https://www.ycombinator.com/blog/building-apis-for-ai-an-interview-with-zapiers-bryan-helmig)
+
+### Proof of Concept
+- [OpenAI Realtime API Assistant](https://github.com/disler/poc-realtime-ai-assistant)
+  - Demonstrates chaining tools, calling o1-preview & o1-mini, structuring output responses
+  - Provides insight into future AI assistant-powered engineering
